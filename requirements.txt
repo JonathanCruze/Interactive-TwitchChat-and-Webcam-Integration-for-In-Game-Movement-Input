@@ -1,0 +1,14 @@
+mss==9.0.1
+nltk==3.8.1
+numpy==1.25.2
+opencv_python==4.8.0.74
+pandas==2.0.3
+PyDirectInput==1.0.4
+PyGetWindow==0.0.9
+pytesseract==0.3.10
+selenium==4.12.0
+tweepy==4.14.0
+twitch==0.1
+twitchio==2.6.0
+ultralytics==8.0.146
+Unidecode==1.3.6
