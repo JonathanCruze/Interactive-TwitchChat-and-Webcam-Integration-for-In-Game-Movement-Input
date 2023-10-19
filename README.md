@@ -1,5 +1,7 @@
 # Interactive-TwitchChat-and-Webcam-Integration-for-In-Game-Movement-Input-in-Pokemon-Videogames
 
+
+
 ## Overview
 This project consists of two Python scripts designed for different tasks: one for interacting with a Twitch stream using YOLO for people detection to play Pokémon, and the other for recognizing events using Tesseract OCR and uploading screenshots of tweets to Twitter using Selenium.
 
@@ -22,7 +24,7 @@ This project consists of two Python scripts designed for different tasks: one fo
   - Ensure you have Tesseract OCR installed and set up properly.
   - Configure the Selenium WebDriver for your desired browser.
   - Run the script, which will monitor for new screenshots, perform OCR to extract events (tweets), and upload the screenshot and event to Twitter.
- 
+ ---
 ## Troubleshooting and Support
 If you encounter any issues or have questions related to this project, please feel free to reach out to the project maintainers.
 
