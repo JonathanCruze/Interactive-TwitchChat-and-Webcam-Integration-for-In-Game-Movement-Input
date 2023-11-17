@@ -31,5 +31,10 @@ If you encounter any issues or have questions related to this project, please fe
 ## Contributions
 Contributions to this project are welcome! If you have any improvements or new features to add, please fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
+## Usage Terms
+This project is freely available for personal and educational purposes. You are welcome to use, modify, and distribute this code under the following conditions:
+
+- Non-Commercial Use: Use of this code for commercial purposes is prohibited.
+- Attribution: Please provide proper credit by referencing this repository when using or distributing any part of this codebase.
+
+Feel free to modify the code to suit your needs, as long as it adheres to the outlined conditions.
